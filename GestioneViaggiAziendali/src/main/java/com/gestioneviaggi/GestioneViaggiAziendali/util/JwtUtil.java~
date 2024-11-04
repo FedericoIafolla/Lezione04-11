@@ -1,0 +1,4 @@
+package com.gestioneviaggi.GestioneViaggiAziendali.util;
+
+public class JwtUtil {
+}

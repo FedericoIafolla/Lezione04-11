@@ -1,0 +1,4 @@
+package com.gestioneviaggi.GestioneViaggiAziendali.model.dto;
+
+public class DipendenteDTO {
+}

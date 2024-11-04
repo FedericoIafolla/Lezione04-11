@@ -1,0 +1,4 @@
+package com.gestioneviaggi.GestioneViaggiAziendali.exception;
+
+public class ResourceNotFoundException {
+}
